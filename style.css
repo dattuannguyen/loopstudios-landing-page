@@ -131,13 +131,16 @@ html body{
     font-weight: 300;
     font-style: normal;
     text-transform: uppercase;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     font-size: 1.2rem;
     letter-spacing: 2px;
     cursor: pointer;
 }
-
+.creation .head-creation button:hover{
+    background-color: black;
+    color: white;
+}
 .grid-creation-card{
     padding-top: 5rem;
     display: grid;
