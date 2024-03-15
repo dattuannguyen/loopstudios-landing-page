@@ -366,7 +366,7 @@ html body{
         width: auto;
     }
     .header .title p{
-        font-size: 3rem;
+        font-size: 2.4rem;
     }
     .header .nav ul{
         display: none;
@@ -388,11 +388,17 @@ html body{
         text-align: center;
         width: auto;
     }
+    .main .description h1{
+        font-size: 2rem;
+    }
     .creation{
         padding: 0 0 8rem 0;
     }
     .creation .head-creation{
         justify-content: center;
+    }
+    .creation .head-creation h1{
+        font-size: 2rem;
     }
     .creation .head-creation button{
         display: none;
